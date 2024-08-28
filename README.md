@@ -1,4 +1,4 @@
-<img align="right" alt="Cloud API" height="280" src="https://github.com/user-attachments/assets/c74a88d7-4d66-4401-af20-ddb3c0aed51a">
+<img align="right" alt="Cloud API" height="250" src="https://github.com/user-attachments/assets/c74a88d7-4d66-4401-af20-ddb3c0aed51a">
 
 <h1>
     <a href="#">
