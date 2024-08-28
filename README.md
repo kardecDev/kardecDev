@@ -6,9 +6,12 @@
     <span>Allan Kardec Neves Alves</span>
 </h1>
 
-<p align="justify">Tech Education Analyst at DIO, post graduating at Software Development with Agile Methodology. My first "Hello World" was in pre-teens when I had contact with HTML, CSS and a little bit of JavaScript and Notepad++. 
+<p align="justify">Atualmentes sou analista de sistemas na Compusoftware, bacharel em engenharia de telecomunicações
+mas minha paixão mesmo é a programação, tive contato com esta arte muito novo ainda através de revistas do sertor, 
+que mensalmente publicavam artigos sobre a linguagem BASIC.
+A partir dai não parei mais. Hoje trabalho com Delphi, C#, Python, Go, Java,  Dart, Advpl, PL/SQL.
 <br>
- Passionate about arts and technology, some of my hobbies are games, watching, reading, and making cosplay accessories <a href="https://www.instagram.com/elicosmaker/">(@elicosmaker)</a>.</p>
+Meus hobbies são pescar e eletrônica.<a href="https://www.instagram.com/elicosmaker/">.</p>
 
 
 ![Static Badge](https://img.shields.io/badge/kardev%20-%20developer?style=for-the-badge&label=Developer&color=blue)
